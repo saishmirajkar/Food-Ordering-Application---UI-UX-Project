@@ -33,3 +33,10 @@ Read our Medium blog to learn more about the project's journey and design proces
 
 Feel free to check out the Figma designs and the Medium blog to dive deeper into our food ordering application UI/UX project. We are thrilled to share this innovative solution with you and hope it inspires future projects in the field of UI/UX design. Happy exploring!
 
+For any inquiries or feedback, please reach out to us:
+
+- Email: saishmirajkar0@gmail.com
+- Discord: https://discord.com/users/saish7147 
+- Twitter: https://twitter.com/saishmirajkar1
+- GitHub: https://github.com/saishmirajkar
+
