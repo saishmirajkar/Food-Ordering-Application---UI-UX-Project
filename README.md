@@ -20,7 +20,7 @@ Welcome to our major UI/UX project - the Food Ordering Application! This startup
 
 - **Prototyping:** Figma Prototype - Our detailed prototypes offered a realistic preview of the app's functionality and user flow.
 
-- **Front-end Development (if applicable):** HTML, CSS, JavaScript - In the development phase, we leveraged these technologies to bring the UI/UX designs to life.
+- **Front-end Development :** HTML, CSS, JavaScript - In the development phase, we leveraged these technologies to bring the UI/UX designs to life.
 
 
 ## Figma Design Link
